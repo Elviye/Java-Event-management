@@ -1,0 +1,28 @@
+.page-title {
+    -fx-font-size: 20px;
+    -fx-text-fill: black;
+    -fx-padding: 10px;
+    -fx-background-color: lightgray;
+}
+
+.page-content {
+    -fx-padding: 20px;
+    -fx-spacing: 20px;
+    -fx-background-color: #ffffff;
+}
+
+.page-content label {
+    -fx-font-weight: bold;
+}
+
+.page-content button {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.page-content button:hover {
+    -fx-background-color: darkred;
+}
