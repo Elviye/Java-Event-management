@@ -1,4 +1,4 @@
-# Java-Event-management
+# Java-Event-management ( open it as code ) 
 
 this is a small structure of the project , its not complete its missing some files like the TEST classes and other css and stuff , just to show you how to mainly navigate it to avoid the confusion .
 
